@@ -70,8 +70,9 @@ header {
   align-items: center;
   background:
     linear-gradient(90deg, #090d1a 0%, rgba(9, 13, 26, 0.8) 60%),
-    radial-gradient(circle at 80% 30%, #35d7ff 0, transparent 25%),
-    radial-gradient(circle at 85% 70%, #ff4ecd 0, transparent 25%);
+    url("../assets/img/banner-gamer.svg");
+  background-size: cover;
+  background-position: center;
 }
 
 .hero-texto,
@@ -163,6 +164,15 @@ h2 {
 
 .produto {
   text-align: center;
+}
+
+.img-produto {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 18px;
+  background: #0d1428;
 }
 
 .icone-produto {
