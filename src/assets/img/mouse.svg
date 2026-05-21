@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title">
+  <title id="title">Mouse gamer</title>
+  <rect width="720" height="460" fill="#090d1a"/>
+  <circle cx="352" cy="250" r="190" fill="#35d7ff" opacity=".1"/>
+  <path d="M360 50c98 0 170 78 170 184v44c0 94-72 152-170 152s-170-58-170-152v-44c0-106 72-184 170-184Z" fill="#121a31" stroke="#35d7ff" stroke-width="12"/>
+  <path d="M360 56v160" stroke="#ff4ecd" stroke-width="10" stroke-linecap="round"/>
+  <rect x="330" y="126" width="60" height="92" rx="26" fill="#a7ff3d"/>
+  <path d="M268 292c42 32 142 32 184 0" fill="none" stroke="#ff4ecd" stroke-width="12" stroke-linecap="round"/>
+  <path d="M360 8c0 35 44 32 44 76" fill="none" stroke="#35d7ff" stroke-width="8" stroke-linecap="round"/>
+</svg>

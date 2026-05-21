@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title">
+  <title id="title">Headset gamer</title>
+  <rect width="720" height="460" fill="#090d1a"/>
+  <circle cx="360" cy="230" r="190" fill="#35d7ff" opacity=".1"/>
+  <path d="M205 254v-58c0-86 68-150 155-150s155 64 155 150v58" fill="none" stroke="#35d7ff" stroke-width="30" stroke-linecap="round"/>
+  <rect x="128" y="230" width="120" height="156" rx="38" fill="#121a31" stroke="#ff4ecd" stroke-width="13"/>
+  <rect x="472" y="230" width="120" height="156" rx="38" fill="#121a31" stroke="#ff4ecd" stroke-width="13"/>
+  <path d="M522 374c-12 42-52 66-116 66" fill="none" stroke="#a7ff3d" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="390" cy="440" r="17" fill="#a7ff3d"/>
+  <path d="M260 108c55-34 145-34 200 0" stroke="#ffffff" stroke-opacity=".2" stroke-width="10" stroke-linecap="round"/>
+</svg>

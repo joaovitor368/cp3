@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title">
+  <title id="title">Cadeira gamer</title>
+  <rect width="720" height="460" fill="#090d1a"/>
+  <circle cx="360" cy="180" r="180" fill="#ff4ecd" opacity=".1"/>
+  <path d="M272 44h176c38 0 68 30 68 68v166H204V112c0-38 30-68 68-68Z" fill="#121a31" stroke="#35d7ff" stroke-width="10"/>
+  <path d="M254 86h50v64h-50zM416 86h50v64h-50z" fill="#090d1a" stroke="#ff4ecd" stroke-width="7"/>
+  <path d="M230 276h260l-28 110H258z" fill="#17213a" stroke="#a7ff3d" stroke-width="9"/>
+  <path d="M360 386v52M292 438h136M250 438l-58 18M470 438l58 18" stroke="#35d7ff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M204 210h-70v88h70M516 210h70v88h-70" fill="none" stroke="#ff4ecd" stroke-width="10" stroke-linejoin="round"/>
+</svg>

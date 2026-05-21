@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title">
+  <title id="title">Setup gamer completo</title>
+  <rect width="720" height="460" fill="#090d1a"/>
+  <circle cx="560" cy="120" r="160" fill="#35d7ff" opacity=".11"/>
+  <rect x="144" y="74" width="432" height="234" rx="28" fill="#07101f" stroke="#35d7ff" stroke-width="10"/>
+  <rect x="176" y="110" width="368" height="158" fill="#17213a"/>
+  <path d="M178 268l88-92 70 58 84-94 122 128" fill="none" stroke="#ff4ecd" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M322 308h76l24 58H298z" fill="#07101f" stroke="#a7ff3d" stroke-width="8"/>
+  <rect x="110" y="366" width="500" height="46" rx="12" fill="#121a31" stroke="#ff4ecd" stroke-width="7"/>
+  <rect x="188" y="382" width="210" height="14" rx="7" fill="#35d7ff"/>
+  <path d="M468 380c24-18 56-18 80 0 20 16 20 44 0 58-24 18-56 18-80 0-20-14-20-42 0-58Z" fill="#121a31" stroke="#35d7ff" stroke-width="7"/>
+  <circle cx="500" cy="408" r="8" fill="#a7ff3d"/>
+</svg>
