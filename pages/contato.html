@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato | Pixel Forge</title>
+  <link rel="stylesheet" href="../src/css/estilo.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <a href="../index.html" class="logo">Pixel Forge</a>
+      <button class="menu-btn" id="menuBtn">☰</button>
+
+      <ul class="menu" id="menu">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="portifolio.html">Portifolio</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="pagina-topo">
+      <h1>Contato</h1>
+      <p>Fale com a Pixel Forge e receba ajuda para montar seu setup gamer.</p>
+    </section>
+
+    <section class="secao contato">
+      <form id="formContato">
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" name="nome" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="descricao">Descricao</label>
+        <textarea id="descricao" name="descricao" rows="6" required></textarea>
+
+        <button type="submit" class="btn principal">Enviar</button>
+
+        <p id="mensagem"></p>
+      </form>
+
+      <div class="card">
+        <h2>Dados de contato</h2>
+        <p>Telefone: (11) 4002-8922</p>
+        <p>Email: contato@pixelforge.com.br</p>
+        <p>Atendimento: segunda a sexta, das 9h as 18h.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <h3>Pixel Forge</h3>
+    <p>Telefone: (11) 4002-8922</p>
+    <p>Email: contato@pixelforge.com.br</p>
+    <p>Instagram | TikTok | YouTube</p>
+    <p>&copy; 2026 Pixel Forge. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="../src/js/script.js"></script>
+</body>
+</html>
